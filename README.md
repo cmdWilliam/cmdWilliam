@@ -2,8 +2,8 @@ Hello there 👋,
 
 I'm William. A mechatronics engineer and developer.
 
-I have years of experience in creating business focused solutions in Sage CRM, Sage 300
-and custom .Net Core APIs and integrations on SQL server backend.
+I have years of experience in creating business focused solutions, custom .Net Core APIs and integrations to Sage CRM, Sage 300. 
+Fullstack development, using react and node, C# razor pages and MVC. SQL server backend.
 
 I have dabbled heavily into non-relational databases, React-js and PWAs.
 
